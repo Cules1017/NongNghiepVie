@@ -1,2 +1,2 @@
 # NongNghiepVie
-Project Xamarin
+Project Xamarin Forms
